@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+	font-family: arial;
+}
+.navbar .typing a{
+	color: white;
+	text-decoration: none;
+}
+.navbar{
+	text-align: center;
+	color: white;
+	padding: 3px;
+	background-color: green;
+}
+
+.main{
+	margin-top: 15px;
+}
+.main > a{
+	text-decoration: none;
+	color: white;
+	background-color: gray;
+	padding: 10px;
+	border-radius: 10px;
+
+}
+.main > a:hover{
+	background-color: green !important;
+}
+.a3{
+	background-color: orange !important;
+}
